@@ -175,25 +175,25 @@ Autonomous Electrosurgery Robot System
    
     
 # 🏆 Honors and Awards
-- *2023.07*, Beijing Outstanding Graduate **(Highest honor for graduates)**
-- *2023.06*, Outstanding Undergraduate Thesis Award **(1/70 in department)**
-- *2023.06*, BUPT Outstanding Graduate
-- *2022.09*, Ranked **1<sup>st</sup>** in the comprehensive quality assessment for the postgraduate recommendation **(1/70 in department)**
-- *2020 - 2022*, Selected for the Ye Peida Innovation and Entrepreneurship College for elite talent development **(70/15000 in the whole school)**
-- *2020 - 2021*, First-class Scholarship, BUPT
-- *2020 - 2021*, Outstanding Student, BUPT
 - *2019 - 2020*, First-class Scholarship, BUPT
 - *2019 - 2020*, Outstanding Student, BUPT
+- *2020 - 2021*, First-class Scholarship, BUPT
+- *2020 - 2021*, Outstanding Student, BUPT
+- *2020 - 2022*, Selected for the Ye Peida Innovation and Entrepreneurship College for elite talent development **(70/15000 in the whole school)**
 - *2021 - 2022*, Second-class Scholarship, BUPT
-- *2021.06*, Outstanding Winner, 9th Beijing College Student Engineering Training Comprehensive Ability Competition **(Team Leader)** 
+- *2022.09*, Ranked **1<sup>st</sup>** in the comprehensive quality assessment for the postgraduate recommendation **(1/70 in department)**
+- *2023.06*, Outstanding Undergraduate Thesis Award **(1/70 in department)**
+- *2023.06*, BUPT Outstanding Graduate
+- *2023.07*, Beijing Outstanding Graduate **(Highest honor for graduates)**
+- *2020.09*, First Prize, 10th Beijing College Student Mechanical Innovative Design Competition **(Team Leader)**
+- *2020.09*, Outstanding Entrepreneurial Team, Beijing College Student Entrepreneurial Team Selection
 - *2021.01*, First Prize (Individual Competition), 6th Beijing College Student Engineering Design Expression Competition
 - *2021.01*, First Prize (Team Competition), 6th Beijing College Student Engineering Design Expression Competition
+- *2021.06*, Outstanding Winner, 9th Beijing College Student Engineering Training Comprehensive Ability Competition **(Team Leader)** 
 - *2021.06*, National Level Award, Beijing College Student Innovation and Entrepreneurship Training Program
 - *2021.06*, Excellent Project Conclusion, Beijing College Student Innovation and Entrepreneurship Training Intercollegiate Cooperation Program
 - *2022.06*, National Level Award, Beijing College Student Innovation and Entrepreneurship Training Program
-- *2020.09*, First Prize, 10th Beijing College Student Mechanical Innovative Design Competition **(Team Leader)**
 - *2022.09*, Second Prize, 11th Beijing College Student Mechanical Innovative Design Competition
-- *2020.09*, Second Prize and Outstanding Entrepreneurial Team, Beijing College Student Entrepreneurial Team Selection
 - *2023.05*, Third Prize, “Challenge Cup” Beijing College Student Extracurricular Academic and Technological Works Competition
 - *2018.08*, First Prize, 18th Henan Province VEX Robotics Engineering Challenge Competition
 - *2017.07*, Third Prize, 17th National FLL Robotics Engineering Challenge Competition
@@ -203,10 +203,10 @@ Autonomous Electrosurgery Robot System
 
 
 # 🌏 Cross-Cultural Communication
-- *2022.05*, Oral Presentation, *ICRA 2022* **(Top conference)**
-- *2024.12*, Oral Presentation, *ROBIO 2024*
-- *2022.07 - 2022.09*, Exchange Program, University of Cambridge Research Program in Artificial Intelligence
 - *2021.01 - 2021.02*, Exchange Program, One Belt One Road Global Digital Study with Tunis University
+- *2022.05*, Oral Presentation, *ICRA 2022* **(Top conference)**
+- *2022.07 - 2022.09*, Exchange Program, University of Cambridge Research Program in Artificial Intelligence
+- *2024.12*, Oral Presentation, *ROBIO 2024*
 
 
 # 📖 Educations
