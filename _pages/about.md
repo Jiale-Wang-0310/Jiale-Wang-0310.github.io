@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my page! I am Jiale Wang, and I have a strong passion for tackling technically challenging problems in biomedical intelligent systems. My research focuses on the **mechanical design and control of medical robots and bioelectronics**. I earned my B.S. degree in Automation from Beijing University of Posts and Telecommunications (BUPT) in 2023, and I am currently pursuing an MPhil degree in Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
 
-At BUPT, I achieved a GPA of **91.37** and ranked **1st** in the comprehensive quality assessment for postgraduate recommendations in my department.
+At BUPT, I achieved a GPA of **91.37** and ranked **1<sup>st</sup>** in the comprehensive quality assessment for postgraduate recommendations in my department.
 
 You can find my CV here: [CV](CV_JialeWang.pdf).
 
