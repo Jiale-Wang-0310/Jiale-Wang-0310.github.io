@@ -174,7 +174,7 @@ Autonomous Electrosurgery Robot System
 - Yuan Qi, Rongrong Qian, Jiyan Zhang, Yue Xue, and **Jiale Wang**. ["Method and Device for Sparse Signal Recovery."](https://worldwide.espacenet.com/patent/search/family/079191360/publication/CN113904689A?q=CN113904689A) CN113904689A, 2022. **(Invention patent)** 
    
     
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023.07*, Beijing Outstanding Graduate **(Highest honor for graduates)**
 - *2023.06*, Outstanding Undergraduate Thesis Award **(1/70 in department)**
 - *2023.06*, BUPT Outstanding Graduate
@@ -214,5 +214,5 @@ Autonomous Electrosurgery Robot System
 - *2019.09 - 2023.07*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing
 - *2016.09 - 2019.07*, Affiliated Middle School of Henan Normal University, Xinxiang
 
-# 👨‍🔧 Teaching Assistant
+# 👨‍🏫 Teaching Assistant
 - *2024.01 - 2024.05*, ELEC3200 System Modeling, Analysis and Control
