@@ -185,8 +185,7 @@ Autonomous Electrosurgery Robot System
 - *2019 - 2020*, First-class Scholarship, BUPT
 - *2019 - 2020*, Outstanding Student, BUPT
 - *2021 - 2022*, Second-class Scholarship, BUPT
-
-
+<br><br>
 - *2021.06*, Outstanding Winner, 9th Beijing College Student Engineering Training Comprehensive Ability Competition **(Team Leader)**
 - *2021.01*, First Prize (Individual Competition), 6th Beijing College Student Engineering Design Expression Competition
 - *2021.01*, First Prize (Team Competition), 6th Beijing College Student Engineering Design Expression Competition
@@ -206,7 +205,7 @@ Autonomous Electrosurgery Robot System
 # 📖 Educations
 - *2023.09 - 2025.07*, MPhil, Hong Kong University of Science and Technology, Hong Kong
 - *2019.09 - 2023.07*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing
-- *2016.09 - 2019.07*, Affiliated Middle School of Henan Normal University, Henan
+- *2016.09 - 2019.07*, Affiliated Middle School of Henan Normal University, Xinxiang
 
 # 👨‍🔧 Teaching Assistant
-- *2022.06 - 2022.07*, ELEC 3200 System Modeling, Analysis and Control
+- *2024.01 - 2024.05*, ELEC3200 System Modeling, Analysis and Control
