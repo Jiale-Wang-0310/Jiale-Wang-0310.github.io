@@ -185,7 +185,6 @@ Autonomous Electrosurgery Robot System
 - *2019 - 2020*, First-class Scholarship, BUPT
 - *2019 - 2020*, Outstanding Student, BUPT
 - *2021 - 2022*, Second-class Scholarship, BUPT
-<br><br>
 - *2021.06*, Outstanding Winner, 9th Beijing College Student Engineering Training Comprehensive Ability Competition **(Team Leader)** 
 - *2021.01*, First Prize (Individual Competition), 6th Beijing College Student Engineering Design Expression Competition
 - *2021.01*, First Prize (Team Competition), 6th Beijing College Student Engineering Design Expression Competition
