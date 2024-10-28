@@ -179,7 +179,7 @@ Autonomous Electrosurgery Robot System
 - *2019 - 2020*, Outstanding Student, BUPT
 - *2020 - 2021*, First-class Scholarship, BUPT
 - *2020 - 2021*, Outstanding Student, BUPT
-- *2020 - 2022*, Selected for the Ye Peida Innovation and Entrepreneurship College for elite talent development **(70/15000 in the whole school)**
+- *2020 - 2022*, Selected for Ye Peida Innovation and Entrepreneurship College for elite talent development **(70/15000 in the whole school)**
 - *2021 - 2022*, Second-class Scholarship, BUPT
 - *2022.09*, Ranked **1<sup>st</sup>** in the comprehensive quality assessment for the postgraduate recommendation **(1/70 in department)**
 - *2023.06*, Outstanding Undergraduate Thesis Award **(1/70 in department)**
