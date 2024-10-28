@@ -165,21 +165,30 @@ Autonomous Electrosurgery Robot System
 
 
 # 📝 Publications and Patents (other)
--<p style="text-align: justify;"> **Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, et al., ["Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal,"](https://events.infovaya.com/presentation?id=77596) in *2022 IEEE International Conference on Robotics and Automation (ICRA)*, published. **(Top conference)** </p>
--<p style="text-align: justify;"> Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al., "A Portable Wireless Spirometer Device for Long-term Pulmonary Function Monitoring and Training," in *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, accepted. </p>
--<p style="text-align: justify;"> Jiyan Zhang, Yue Xue, **Jiale Wang**, and Yuan Qi, ["A Parallelized Algorithm for Channel Estimation in mmWave Massive MIMO Communications,"](https://ieeexplore.ieee.org/document/10065999) in *2022 IEEE International Conference on Computer and Communications (ICCC)*, published. </p>
--<p style="text-align: justify;"> Tianyang Zhao, Rongrong Qian, Yaqi Wang, Songling Zhang, and **Jiale Wang**, ["Flying Like Birds: Hierarchical-Egalitarian Switching Based Control Law for Multi-UAV Systems,"](https://ieeexplore.ieee.org/document/10033711) in *2022 Chinese Control and Decision Conference (CCDC)*, published. </p>
--<p style="text-align: justify;"> Jiyan Zhang, Yue Xue, Yuan Qi, and **Jiale Wang**, ["The APC algorithm of solving large-scale linear systems: A generalized analysis,"](https://www.researchgate.net/publication/363651382_The_APC_Algorithm_of_Solving_Large-Scale_Linear_Systems_A_Generalized_Analysis) in *2022 International Conference on Communications and Networking in China (Chinacom)*, published. </p>
--<p style="text-align: justify;"> Xiong Yang, Hao Ren, Dong Guo, Zhengrong Ling, Tieshan Zhang, Gen Li, Yifeng Tang, Haoxiang Zhao, **Jiale Wang**, Hongyuan Chang, et al., "F3T: A soft tactile unit with 3D force and temperature mathematical decoupling ability for robots," in *Engineering*, under review. **(Ranking: Q1, 2 / 307)** </p>
--<p style="text-align: justify;"> Yuan Qi, Rongrong Qian, Jiyan Zhang, Yue Xue, and **Jiale Wang**. ["Method and Device for Sparse Signal Recovery."](https://worldwide.espacenet.com/patent/search/family/079191360/publication/CN113904689A?q=CN113904689A) CN113904689A, 2022. **(Invention patent)** </p>
+- <p style="text-align: justify;"> 
+**Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, et al., ["Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal,"](https://events.infovaya.com/presentation?id=77596) in *2022 IEEE International Conference on Robotics and Automation (ICRA)*, published. **(Top conference)** </p>
+- <p style="text-align: justify;"> 
+Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al., "A Portable Wireless Spirometer Device for Long-term Pulmonary Function Monitoring and Training," in *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, accepted. </p>
+- <p style="text-align: justify;">
+Jiyan Zhang, Yue Xue, **Jiale Wang**, and Yuan Qi, ["A Parallelized Algorithm for Channel Estimation in mmWave Massive MIMO Communications,"](https://ieeexplore.ieee.org/document/10065999) in *2022 IEEE International Conference on Computer and Communications (ICCC)*, published. </p>
+- <p style="text-align: justify;"> 
+Tianyang Zhao, Rongrong Qian, Yaqi Wang, Songling Zhang, and **Jiale Wang**, ["Flying Like Birds: Hierarchical-Egalitarian Switching Based Control Law for Multi-UAV Systems,"](https://ieeexplore.ieee.org/document/10033711) in *2022 Chinese Control and Decision Conference (CCDC)*, published. </p>
+- <p style="text-align: justify;"> 
+Jiyan Zhang, Yue Xue, Yuan Qi, and **Jiale Wang**, ["The APC algorithm of solving large-scale linear systems: A generalized analysis,"](https://www.researchgate.net/publication/363651382_The_APC_Algorithm_of_Solving_Large-Scale_Linear_Systems_A_Generalized_Analysis) in *2022 International Conference on Communications and Networking in China (Chinacom)*, published. </p>
+- <p style="text-align: justify;"> 
+Xiong Yang, Hao Ren, Dong Guo, Zhengrong Ling, Tieshan Zhang, Gen Li, Yifeng Tang, Haoxiang Zhao, **Jiale Wang**, Hongyuan Chang, et al., "F3T: A soft tactile unit with 3D force and temperature mathematical decoupling ability for robots," in *Engineering*, under review. **(Ranking: Q1, 2 / 307)** </p>
+- <p style="text-align: justify;"> 
+Yuan Qi, Rongrong Qian, Jiyan Zhang, Yue Xue, and **Jiale Wang**. ["Method and Device for Sparse Signal Recovery."](https://worldwide.espacenet.com/patent/search/family/079191360/publication/CN113904689A?q=CN113904689A) CN113904689A, 2022. **(Invention patent)** </p>
    
     
 # 🎖 Honors and Awards
 - *2023.07*, Beijing Outstanding Graduate **(Highest honor for graduates)**
 - *2023.06*, Outstanding Undergraduate Thesis Award **(1/70 in department)**
 - *2023.06*, BUPT Outstanding Graduate
--<p style="text-align: justify;"> *2022.09*, Ranked **1<sup>st</sup>** in the comprehensive quality assessment for the postgraduate recommendation **(1/70 in department)** </p>
--<p style="text-align: justify;"> *2020 - 2022*, Selected for the Ye Peida Innovation and Entrepreneurship College for elite talent development **(70/15000 in the whole school)** </p>
+- <p style="text-align: justify;">
+*2022.09*, Ranked **1<sup>st</sup>** in the comprehensive quality assessment for the postgraduate recommendation **(1/70 in department)** </p>
+- <p style="text-align: justify;"> 
+*2020 - 2022*, Selected for the Ye Peida Innovation and Entrepreneurship College for elite talent development **(70/15000 in the whole school)** </p>
 - *2020 - 2021*, First-class Scholarship, BUPT
 - *2020 - 2021*, Outstanding Student, BUPT
 - *2019 - 2020*, First-class Scholarship, BUPT
@@ -189,7 +198,8 @@ Autonomous Electrosurgery Robot System
 - *2021.01*, First Prize (Individual Competition), 6th Beijing College Student Engineering Design Expression Competition
 - *2021.01*, First Prize (Team Competition), 6th Beijing College Student Engineering Design Expression Competition
 - *2021.06*, National Level Award, Beijing College Student Innovation and Entrepreneurship Training Program
--<p style="text-align: justify;"> *2021.06*, Excellent Project Conclusion, Beijing College Student Innovation and Entrepreneurship Training Intercollegiate Cooperation Program </p>
+- <p style="text-align: justify;"> 
+*2021.06*, Excellent Project Conclusion, Beijing College Student Innovation and Entrepreneurship Training Intercollegiate Cooperation Program </p>
 - *2022.06*, National Level Award, Beijing College Student Innovation and Entrepreneurship Training Program
 - *2020.09*, First Prize, 10th Beijing College Student Mechanical Innovative Design Competition **(Team Leader)**
 - *2022.09*, Second Prize, 11th Beijing College Student Mechanical Innovative Design Competition
