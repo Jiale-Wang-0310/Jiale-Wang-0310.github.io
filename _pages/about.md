@@ -95,7 +95,7 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 
 Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery
 
-[**Video 1**](videos/stapling.mp4) [**Video 2**](videos/stapling.mp4)
+[**Video 1**](videos/balloon_I.mp4) [**Video 2**](videos/balloon_II.mp4)
 
 **Date**: 07/2023-present
 
@@ -118,7 +118,7 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 
 Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
 
-[**Video 1**](videos/stapling.mp4) [**Video 2**](videos/stapling.mp4)
+[**Video 1**](videos/MNS_move.mp4) [**Video 2**](videos/MNS_ex.mp4)
 
 **Date**: 09/2023-present
 
