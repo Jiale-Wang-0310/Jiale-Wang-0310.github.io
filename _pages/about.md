@@ -114,7 +114,7 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Robotics (under preparation)</div><img src='images/MNS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery
+Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
 
 **Date**: 09/2023-present
 
