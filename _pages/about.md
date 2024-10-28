@@ -78,7 +78,7 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 
 **Role**: Project Leader, MPhil student, HKUST
 
-**Jiale Wang<sup>†</sup>**, Hao Ren, Liu Yang, et al.
+**Jiale Wang**, Hao Ren, Liu Yang, et al.
 
 **Description**: 
 - We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
