@@ -27,7 +27,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 # 📝 Publications and Patents (as first/co-first author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L, ICRA 2022 (Published, Ranking: Q1, 6/130)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L (Published, Ranking: Q1, 6/130)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
@@ -71,7 +71,7 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024 (accepted)</div><img src='images/stent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024 (Accepted)</div><img src='images/stent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization of Colorectal Cancer
@@ -92,7 +92,7 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Biomedical Engineering (under preparation)</div><img src='images/balloon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Biomedical Engineering (Under preparation)</div><img src='images/balloon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery
@@ -115,7 +115,7 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Robotics (under preparation)</div><img src='images/MNS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Robotics (Under preparation)</div><img src='images/MNS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
@@ -163,11 +163,15 @@ Autonomous Electrosurgery Robot System
 
 
 # 📝 Publications and Patents (other)
-- [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
-- [Design and research of intermittent transmission mechanism based on curved groove](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRAb-KGL_-szYL1TNuSMiQRseq943SVNlzoJuQaZ6Dz6FWG7PV7rJgRKtFP3UD9b1_SmIOzUQAi811HN5piyRHNKNNgTL8VqtUGEQ9sE0dctJc_YNEiMwORZct1acnQ7rFXoQN2Vq8xu2itsJswRA4nJ&uniplatform=NZKPT&language=CHS), Min Li, Xiaoqiao Chen, Fenglian Song, Wenke Zhou, **Ruijia Zhang**, **Journal of Wuhan University: Engineering Science Edition 2022**
-- [Tail fin propelled autonomous swimming bionic robotic fish based on composite connecting rod mechanism](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629), **Ruijia Zhang**, Min Li, Wenke Zhou, Zibin Nian, Ning Luo & Xiaoya He. CN 114537629 A, 2023
-- [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng, Kailang She. CN 215513213 U, 2022
-
+- Jiale Wang*, Chenhao Yue*, et al., "Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal," in 2022 IEEE International Conference on Robotics and Automation (ICRA), published. (Top conference) 
+- Hao Ren*, Jiale Wang*, Liu Yang, et al., "A Portable Wireless Spirometer Device for Long-term Pulmonary Function Monitoring and Training," in 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO), accepted.
+- Jiyan Zhang, Yue Xue, Jiale Wang, and Yuan Qi, "A Parallelized Algorithm for Channel Estimation in mmWave Massive MIMO Communications," in 2022 IEEE International Conference on Computer and Communications (ICCC), published.
+- Tianyang Zhao, Rongrong Qian, Yaqi Wang, Songling Zhang, and Jiale Wang, "Flying Like Birds: Hierarchical-Egalitarian Switching Based Control Law for Multi-UAV Systems," in 2022 Chinese Control and Decision Conference (CCDC), published.
+- Jiyan Zhang, Yue Xue, Yuan Qi, and Jiale Wang, "The APC algorithm of solving large-scale linear systems: A generalized analysis," in 2022 International Conference on Communications and Networking in China (Chinacom), published. 
+- Xiong Yang, Hao Ren, Dong Guo, Zhengrong Ling, Tieshan Zhang, Gen Li, Yifeng Tang, Haoxiang Zhao, Jiale Wang, Hongyuan Chang, et al., "F3T: A soft tactile unit with 3D force and temperature mathematical decoupling ability for robots," in Engineering, under review. (Ranking: Q1, 2 / 307)
+- Yuan Qi, Rongrong Qian, Jiyan Zhang, Yue Xue, and Jiale Wang. "Method and Device for Sparse Signal Recovery." CN113904689A, 2022. (Invention patent)
+   
+    
 # 🎖 Honors and Awards
 - *2023.10* The First Prize, Liudaoyu Creative Learning Award, WHU
 - *2023.10* Professional A-level Scholarship, WHU
