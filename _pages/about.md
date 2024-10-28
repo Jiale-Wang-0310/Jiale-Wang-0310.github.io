@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/310d484a-e1e5-4f81-b604-745e495f7e34)---
 permalink: /
 title: ""
 excerpt: ""
@@ -25,7 +25,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 # 📝 Publications and Patents (as first/co-first author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L, ICRA2022 (published)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L, ICRA 2022 (published)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
@@ -69,18 +69,58 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L & ICRA2022 (published)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024 (accepted)</div><img src='images/stent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
+Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization of Colorectal Cancer
 
-[**Video**](videos/stapling.mp4)
+**Date**: 08/2023-10/2024
 
-**Date**: 03/2021-05/2022
+**Role**: Project Leader, MPhil student, HKUST
 
-**Role**: Undergraduate student, BUPT
+**Jiale Wang<sup>†</sup>**, Hao Ren, Liu Yang, et al.
 
-**Jiale Wang<sup>*</sup>**, Chenhao Yue<sup>*</sup>, Baiquan Su, et al.
+**Description**: 
+- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
+- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
+- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in biomedical engineering (under preparation)</div><img src='images/balloon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery
+
+**Date**: 07/2023-present
+
+**Role**: Project Leader, MPhil student, HKUST
+
+**Jiale Wang<sup>†</sup>**, Hao Ren<sup>†</sup>, Liu Yang, et al.
+
+**Description**: 
+- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
+- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
+- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Robotics (under preparation)</div><img src='images/MNS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery
+
+**Date**: 09/2023-present
+
+**Role**: Project Co-Leader, MPhil student, HKUST
+
+Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
 **Description**: 
 - We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
