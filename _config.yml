@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiale Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "B.S.<br>Major: Automation<br>Beijing University of Posts and Telecommunications (BUPT)"
-  location         : "Hubei, China"
+  bio              : "B.S. | Major: Automation<br>Beijing University of Posts and Telecommunications (BUPT)<br><br>MPhil | Major: Electronic and Computer Engineering<br>Hong Kong University of Science and Technology (HKUST)"
+  location         : "Clear Water Bay, NT, Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7zzM73MAAAAJ&hl=en"
-  email            : "zhangruijia12@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=qJBqh-wAAAAJ&hl=en&oi=sra"
+  email            : "jialewang23@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "husky1900"
+  github           : #"husky1900"
   google_plus      :
   keybase          :
   instagram        :
