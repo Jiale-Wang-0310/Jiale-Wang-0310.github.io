@@ -64,9 +64,9 @@ A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring a
 Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
 **Description**: 
-- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
-- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
-- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
+- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
+- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
 
 
 </div>
@@ -85,9 +85,9 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 **Jiale Wang**, Hao Ren, Liu Yang, et al.
 
 **Description**: 
-- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
-- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
-- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
+- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
+- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
 
 
 </div>
@@ -108,9 +108,9 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 **Jiale Wang<sup>†</sup>**, Hao Ren<sup>†</sup>, Liu Yang, et al.
 
 **Description**: 
-- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
-- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
-- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
+- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
+- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
 
 
 </div>
@@ -131,9 +131,9 @@ Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
 Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
 **Description**: 
-- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
-- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
-- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
+- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
+- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
 
 
 </div>
@@ -155,9 +155,9 @@ Autonomous Electrosurgery Robot System
 **Jiale Wang**, Han Li, and Baiquan Su.
 
 **Description**: 
-- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
-- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
-- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
+- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
+- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
 
 
 </div>
