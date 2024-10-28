@@ -3,11 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "Publications and Patents (as first/co-first author)"
+    url: "/#-Publications and Patents (as first/co-first author)"
     
-  - title: "Publications"
-    url: "/#-publications-and-patents"
+  - title: "Publications and Patents (other)"
+    url: "/#Publications and Patents (other)"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
