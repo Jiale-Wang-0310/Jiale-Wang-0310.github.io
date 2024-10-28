@@ -23,18 +23,18 @@ At BUPT, I achieved a GPA of **91.37** and ranked **1st** in the comprehensive q
 
 You can find my CV here: [CV](CV_JialeWang.pdf).
 
-# 📝 Publications and Patents [as first/co-first author]
+# 📝 Publications and Patents (as first/co-first author)
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/description.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/stapling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A tendon-driven soft hand for dexterous manipulation](https://miaoli.github.io/research/)
+[Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
 
-**Date**: 08/2023-present
+**Date**: 03/2021-05/2022
 
-**Role**: Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
+**Role**: Undergraduate student, BUPT
 
-**Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
+**Jiale Wang***, Chenhao Yue*, Baiquan Su, et al.
 
 **Description**: 
 - We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
