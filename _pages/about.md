@@ -57,7 +57,7 @@ A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring a
 
 **Role**: Project Co-Leader, MPhil student, HKUST
 
-Chenhao Yue<sup>*</sup>, **Jiale Wang<sup>*</sup>**, Liu Yang, et al.
+Hao Ren<sup>**</sup>, **Jiale Wang<sup>*</sup>**, Liu Yang, et al.
 
 **Description**: 
 - We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
