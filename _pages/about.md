@@ -23,7 +23,7 @@ At BUPT, my GPA was 91.37. And I was ranked 1st in the comprehensive quality ass
 
 My research journey began with First-principles calculations in semiconductors and has evolved to the current robotics focus, as I gravitated towards a deep fascination with exploring advanced and novel robotic mechanisms that hold the potential for real-world adoption. 
 
-You can find my CV here: [CV](CV_Jiale Wang.pdf).
+You can find my CV here: [CV](CV_JialeWang.pdf).
 
 # ⚙️ Projects
 
