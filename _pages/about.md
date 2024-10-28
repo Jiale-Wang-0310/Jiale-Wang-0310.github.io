@@ -36,7 +36,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 **Role**: Project Leader, Undergraduate Student, BUPT
 
-**Jiale Wang<sup>*</sup>**, Chenhao Yue<sup>*</sup>, Baiquan Su, et al.
+**Jiale Wang<sup>*</sup>**, Chenhao Yue<sup>dagger</sup>, Baiquan Su, et al.
 
 **Description**: 
 - We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
