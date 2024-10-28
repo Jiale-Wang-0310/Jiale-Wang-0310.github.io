@@ -43,8 +43,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 **Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, Baiquan Su, et al.
 
 **Description**: 
-<p style="text-align: justify;">
-- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
+- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
 - The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
 - We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
 
