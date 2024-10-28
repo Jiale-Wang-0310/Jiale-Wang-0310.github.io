@@ -30,6 +30,8 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 [Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
 
+[Video](videos/stapling.mp4)
+
 **Date**: 03/2021-05/2022
 
 **Role**: Undergraduate student, BUPT
