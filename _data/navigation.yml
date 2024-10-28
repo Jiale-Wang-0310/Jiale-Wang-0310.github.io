@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
 
   - title: "Publications and Patents (as first/co-first author)"
-    url: "/#-projects"
+    url: "/#-publications-and-patents-(as-first/co-first-author)"
     
   - title: "Publications and Patents (other)"
-    url: "/#-publications-and-patents"
+    url: "/#-publications-and-patents-(other)"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
