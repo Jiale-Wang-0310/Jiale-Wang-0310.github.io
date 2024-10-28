@@ -175,21 +175,35 @@ Autonomous Electrosurgery Robot System
    
     
 # 🎖 Honors and Awards
-- *2023.10* The First Prize, Liudaoyu Creative Learning Award, WHU
-- *2023.10* Professional A-level Scholarship, WHU
-- *2023.10* Outstanding Volunteer, 7th International Conference of Bionic Engineering. 
-- *2023.04* The First Prize, 1st Inno Innovation Achievement Award, WHU (5th in the whole school)
-- *2022.10* National Scholarship (Undergraduate) (Top 1%)
-- *2022.10* Professional A-level Scholarship, WHU
-- *2022.09* The First Prize, 16th China Intelligent Manufacturing Challenge
-- *2022.07* National Second Prize, 5th National College Intelligent Robot Creative Competition
-- *2022.05* The First Prize (team leader), 10th National College Mechanical Innovation Design Competition
-- *2022.04* “Top 10 students” (10/1200), School of Power and Mechanical Engineering, WHU
-- *2022.04* “Advanced Individual in Scientific and Technological Innovation”, School of Power and Mechanical Engineering, WHU
-- *2021.11* National Gold Award (team leader, award rate 1.43%), 7th Chinese Engineering and Innovation Competition
-- *2021.10* National Scholarship (Undergraduate) (Top 1%)
-- *2021.10* Professional A-level Scholarship, WHU
-- *2019.09* The Second Prize, the 36th Chinese Physics Olympiad
+- *2023.07* Beijing Outstanding Graduate **(Highest honor for graduates)**
+- *2023.06* Outstanding Undergraduate Thesis Award **(1/70 in department)**
+- *2023.06* BUPT Outstanding Graduate
+- *2022.09* Ranked **1<sup>st</sup>** in the comprehensive quality assessment for the postgraduate recommendation **(1/70 in department)**
+- *2020-2022* Selected for the Ye Peida Innovation and Entrepreneurship College for elite talent development **(70/15000 in the whole school)**
+- *2020-2021* First-class Scholarship, BUPT
+- *2020-2021* Outstanding Student, BUPT
+- *2019-2020* First-class Scholarship, BUPT
+- *2019-2020* Outstanding Student, BUPT
+- *2021-2022* Second-class Scholarship, BUPT
+
+- *09/2020* First Prize, 10th Beijing College Student Mechanical Innovative Design Competition **(Team Leader)** (Highest prize in this competition)
+- *01/2021* First Prize (Individual Competition), 6th Beijing College Student Engineering Design Expression Competition (Highest prize in this competition)
+- *01/2021* First Prize (Team Competition), 6th Beijing College Student Engineering Design Expression Competition (Highest prize in this competition)
+- *06/2021* Outstanding Winner, 9th Beijing College Student Engineering Training Comprehensive Ability Competition **(Team Leader)** (Highest prize in this competition)
+- *09/2022* Second Prize, 11th Beijing College Student Mechanical Innovative Design Competition
+- *09/2020* Second Prize and Outstanding Entrepreneurial Team, Beijing College Student Entrepreneurial Team Selection
+- *05/2023* Third Prize, “Challenge Cup” Beijing College Student Extracurricular Academic and Technological Works Competition
+- *06/2021* National Level Award, Beijing College Student Innovation and Entrepreneurship Training Program (Highest prize in this program)
+- *06/2021* Excellent Project Conclusion, Beijing College Student Innovation and Entrepreneurship Training Intercollegiate Cooperation Program (Highest prize in this program)
+- *06/2022* National Level Award, Beijing College Student Innovation and Entrepreneurship Training Program (Highest prize in this program)
+- *07/2022-09/2022* Excellent Performance, University of Cambridge Research Program in Artificial Intelligence (Highest level in the grading system)
+- *01/2021-02/2021* One Belt One Road Global Digital Study, Tunis University
+- *2020* Third Prize, BUPT Physics Competition
+- *07/2017* Third Prize, 17th National FLL Robotics Engineering Challenge Competition
+- *08/2018* First Prize, 18th Henan Province VEX Robotics Engineering Challenge Competition
+- *07/2017* First Prize, 17th Henan Province FLL Robotics Engineering Challenge Competition
+- *01/2017* "Summit Cup" National Academic Science and Technology Innovation Competition
+- *08/2014* Third Prize, World Robot Olympiad (WRO 2014)
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Undergraduate, Wuhan University, Hubei 
