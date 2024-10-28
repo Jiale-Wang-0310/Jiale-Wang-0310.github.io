@@ -23,7 +23,7 @@ At BUPT, I achieved a GPA of **91.37** and ranked **1st** in the comprehensive q
 
 You can find my CV here: [CV](CV_JialeWang.pdf).
 
-# ⚙️ Projects
+# 📝 Publications and Patents [as first/co-first author]
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/description.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
