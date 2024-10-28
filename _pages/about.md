@@ -202,7 +202,7 @@ Autonomous Electrosurgery Robot System
 - *2014.08*, Third Prize, World Robot Olympiad (WRO 2014)
 
 
-# 🌏 Cross-cultural Communication
+# 🌏 Cross-Cultural Communication
 - *2022.05*, Oral Presentation, *ICRA 2022* **(Top conference)**
 - *2024.12*, Oral Presentation, *ROBIO 2024*
 - *2022.07 - 2022.09*, Exchange Program, University of Cambridge Research Program in Artificial Intelligence
