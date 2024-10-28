@@ -163,13 +163,13 @@ Autonomous Electrosurgery Robot System
 
 
 # 📝 Publications and Patents (other)
-- **Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, et al., "Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal," in 2022 IEEE International Conference on Robotics and Automation (ICRA), published. (Top conference) 
-- Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al., "A Portable Wireless Spirometer Device for Long-term Pulmonary Function Monitoring and Training," in 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO), accepted.
-- Jiyan Zhang, Yue Xue, **Jiale Wang**, and Yuan Qi, "A Parallelized Algorithm for Channel Estimation in mmWave Massive MIMO Communications," in 2022 IEEE International Conference on Computer and Communications (ICCC), published.
-- Tianyang Zhao, Rongrong Qian, Yaqi Wang, Songling Zhang, and **Jiale Wang**, "Flying Like Birds: Hierarchical-Egalitarian Switching Based Control Law for Multi-UAV Systems," in 2022 Chinese Control and Decision Conference (CCDC), published.
-- Jiyan Zhang, Yue Xue, Yuan Qi, and **Jiale Wang**, "The APC algorithm of solving large-scale linear systems: A generalized analysis," in 2022 International Conference on Communications and Networking in China (Chinacom), published. 
-- Xiong Yang, Hao Ren, Dong Guo, Zhengrong Ling, Tieshan Zhang, Gen Li, Yifeng Tang, Haoxiang Zhao, **Jiale Wang**, Hongyuan Chang, et al., "F3T: A soft tactile unit with 3D force and temperature mathematical decoupling ability for robots," in Engineering, under review. (Ranking: Q1, 2 / 307)
-- Yuan Qi, Rongrong Qian, Jiyan Zhang, Yue Xue, and **Jiale Wang**. "Method and Device for Sparse Signal Recovery." CN113904689A, 2022. (Invention patent)
+- **Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, et al., ["Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal,"](https://events.infovaya.com/presentation?id=77596) in *2022 IEEE International Conference on Robotics and Automation (ICRA)*, published. **(Top conference)**
+- Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al., "A Portable Wireless Spirometer Device for Long-term Pulmonary Function Monitoring and Training," in *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, accepted.
+- Jiyan Zhang, Yue Xue, **Jiale Wang**, and Yuan Qi, ["A Parallelized Algorithm for Channel Estimation in mmWave Massive MIMO Communications,"](https://ieeexplore.ieee.org/document/10065999) in *2022 IEEE International Conference on Computer and Communications (ICCC)*, published.
+- Tianyang Zhao, Rongrong Qian, Yaqi Wang, Songling Zhang, and **Jiale Wang**, ["Flying Like Birds: Hierarchical-Egalitarian Switching Based Control Law for Multi-UAV Systems,"](https://ieeexplore.ieee.org/document/10033711) in *2022 Chinese Control and Decision Conference (CCDC)*, published.
+- Jiyan Zhang, Yue Xue, Yuan Qi, and **Jiale Wang**, ["The APC algorithm of solving large-scale linear systems: A generalized analysis,"](https://www.researchgate.net/publication/363651382_The_APC_Algorithm_of_Solving_Large-Scale_Linear_Systems_A_Generalized_Analysis) in *2022 International Conference on Communications and Networking in China (Chinacom)*, published. 
+- Xiong Yang, Hao Ren, Dong Guo, Zhengrong Ling, Tieshan Zhang, Gen Li, Yifeng Tang, Haoxiang Zhao, **Jiale Wang**, Hongyuan Chang, et al., "F3T: A soft tactile unit with 3D force and temperature mathematical decoupling ability for robots," in *Engineering*, under review. **(Ranking: Q1, 2 / 307)**
+- Yuan Qi, Rongrong Qian, Jiyan Zhang, Yue Xue, and **Jiale Wang**. "Method and Device for Sparse Signal Recovery." CN113904689A, 2022. **(Invention patent)**
    
     
 # 🎖 Honors and Awards
