@@ -201,6 +201,13 @@ Autonomous Electrosurgery Robot System
 - *2017.01*, "Summit Cup" National Academic Science and Technology Innovation Competition
 - *2014.08*, Third Prize, World Robot Olympiad (WRO 2014)
 
+
+# 🌏 Educations
+- *2023.09 - 2025.07*, MPhil, Hong Kong University of Science and Technology, Hong Kong
+- *2019.09 - 2023.07*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing
+- *2016.09 - 2019.07*, Affiliated Middle School of Henan Normal University, Xinxiang
+
+
 # 📖 Educations
 - *2023.09 - 2025.07*, MPhil, Hong Kong University of Science and Technology, Hong Kong
 - *2019.09 - 2023.07*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing
