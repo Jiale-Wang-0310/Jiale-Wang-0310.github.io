@@ -204,9 +204,9 @@ Autonomous Electrosurgery Robot System
 - *2014.08*, Third Prize, World Robot Olympiad (WRO 2014)
 
 # 📖 Educations
-- *2020.09 - 2024.06*, Undergraduate, Wuhan University, Hubei 
-- *2017.09 - 2020.06*, Mianyang Middle School, Sichuan
+- *2023.09 - 2025.07*, MPhil, Hong Kong University of Science and Technology, Hong Kong
+- *2019.09 - 2023.07*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing
+- *2016.09 - 2019.07*, Affiliated Middle School of Henan Normal University, Henan
 
-# 👩‍🏫 Teaching Assistant
-- *2022.06 - 2022.07*, Industrial Training Course, WHU——Prepared instruction materials and taught CNC milling skills to undergraduates.
-- *2021.09 - 2022.02*, Mechanical Vehicle Training Camp, WHU——Trained students in engineering skills, focusing on mechanical vehicle design, manufacturing, and tuning.
+# 👨‍🔧 Teaching Assistant
+- *2022.06 - 2022.07*, ELEC 3200 System Modeling, Analysis and Control
