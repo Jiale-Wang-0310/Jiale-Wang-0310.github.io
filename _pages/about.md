@@ -27,12 +27,12 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 # 📝 Publications and Patents (as first/co-first author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L, ICRA 2022 (published)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L, ICRA 2022 (Published, Ranking: Q1, 6/130)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
 
-[**Video**](videos/stapling.mp4)
+[**[Video]**](videos/stapling.mp4)
 
 **Date**: 03/2021-05/2022
 
@@ -50,7 +50,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (under review)</div><img src='images/spirometer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (Under review, Ranking: Q1, 3/152)</div><img src='images/spirometer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training
@@ -97,7 +97,7 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 
 Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery
 
-[**Video 1**](videos/balloon_I.mp4) [**Video 2**](videos/balloon_II.mp4)
+[**[Video 1]**](videos/balloon_I.mp4) [**[Video 2]**](videos/balloon_II.mp4)
 
 **Date**: 07/2023-present
 
@@ -120,7 +120,7 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 
 Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
 
-[**Video 1**](videos/MNS_move.mp4) [**Video 2**](videos/MNS_ex.mp4)
+[**[Video 1]**](videos/MNS_move.mp4) [**[Video 2]**](videos/MNS_ex.mp4)
 
 **Date**: 09/2023-present
 
@@ -144,7 +144,7 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
 Autonomous Electrosurgery Robot System
 
-[**EPO Link**](https://worldwide.espacenet.com/patent/search/family/087638024/publication/CN116616902A?q=CN116616902A)
+[**[EPO Link]**](https://worldwide.espacenet.com/patent/search/family/087638024/publication/CN116616902A?q=CN116616902A)
 
 **Date**: 10/2022-08/2023
 
