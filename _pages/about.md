@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my page! I am Jiale Wang, and I have a strong passion for tackling technically challenging problems in biomedical intelligent systems. My research focuses on the **mechanical design and control of medical robots and bioelectronics**. I earned my B.S. degree in Automation from Beijing University of Posts and Telecommunications (BUPT) in 2023, and I am currently pursuing an MPhil degree in Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
 
-At BUPT, I achieved a high GPA of **91.37/100** and ranked **1<sup>st</sup>** in the comprehensive quality assessment for postgraduate recommendations. I received the **First-Class Scholarship** and the **Outstanding Student** award for two consecutive years. Furthermore, as a team leader, I guided my team in various engineering competitions related to robotics and mechanical design, resulting in **First Prize** and **Outstanding Winner** awards. Consequently, due to my excellent academic performance and extensive competition experience, I was honored as a **Beijing Outstanding Graduate**, the highest recognition for graduates, and received the **Outstanding Undergraduate Thesis Award (1/71 in department, top 1.4%)** for my undergraduate thesis. During my MPhil studies at HKUST, I maintained **straight A’s**, with a GPA of **4.0/4.3 (Excellent)**.
+At BUPT, I achieved a high GPA of <u>91.37/100</u> and ranked **1<sup>st</sup>** in the comprehensive quality assessment for postgraduate recommendations. I received the **First-Class Scholarship** and the **Outstanding Student** award for two consecutive years. Furthermore, as a team leader, I guided my team in various engineering competitions related to robotics and mechanical design, resulting in **First Prize** and **Outstanding Winner** awards. Consequently, due to my excellent academic performance and extensive competition experience, I was honored as a **Beijing Outstanding Graduate**, the highest recognition for graduates, and received the **Outstanding Undergraduate Thesis Award (1/71 in department, top 1.4%)** for my undergraduate thesis. During my MPhil studies at HKUST, I maintained **straight A’s**, with a GPA of **4.0/4.3 (Excellent)**.
 
 You can find my CV here: [CV](CV_JialeWang.pdf).
 
@@ -160,7 +160,7 @@ Autonomous Electrosurgery Robot System
 </div>
 
 
-# 📝 Publications and Patents
+# 📝 Publications and Patents (other)
 - [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
 - [Design and research of intermittent transmission mechanism based on curved groove](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRAb-KGL_-szYL1TNuSMiQRseq943SVNlzoJuQaZ6Dz6FWG7PV7rJgRKtFP3UD9b1_SmIOzUQAi811HN5piyRHNKNNgTL8VqtUGEQ9sE0dctJc_YNEiMwORZct1acnQ7rFXoQN2Vq8xu2itsJswRA4nJ&uniplatform=NZKPT&language=CHS), Min Li, Xiaoqiao Chen, Fenglian Song, Wenke Zhou, **Ruijia Zhang**, **Journal of Wuhan University: Engineering Science Edition 2022**
 - [Tail fin propelled autonomous swimming bionic robotic fish based on composite connecting rod mechanism](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629), **Ruijia Zhang**, Min Li, Wenke Zhou, Zibin Nian, Ning Luo & Xiaoya He. CN 114537629 A, 2023
