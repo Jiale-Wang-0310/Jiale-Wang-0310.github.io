@@ -55,7 +55,7 @@ A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring a
 
 **Date**: 10/2023-present
 
-**Role**: Project Co-Leader, MPhil student, HKUST
+**Role**: Project Co-Leader, MPhil Student, HKUST
 
 Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
@@ -76,7 +76,7 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 
 **Date**: 08/2023-10/2024
 
-**Role**: Project Leader, MPhil student, HKUST
+**Role**: Project Leader, MPhil Student, HKUST
 
 **Jiale Wang**, Hao Ren, Liu Yang, et al.
 
@@ -90,14 +90,16 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in biomedical engineering (under preparation)</div><img src='images/balloon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Biomedical Engineering (under preparation)</div><img src='images/balloon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery
 
+[**Video 1**](videos/stapling.mp4) [**Video 2**](videos/stapling.mp4)
+
 **Date**: 07/2023-present
 
-**Role**: Project Leader, MPhil student, HKUST
+**Role**: Project Leader, MPhil Student, HKUST
 
 **Jiale Wang<sup>†</sup>**, Hao Ren<sup>†</sup>, Liu Yang, et al.
 
@@ -116,11 +118,37 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 
 Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
 
+[**Video 1**](videos/stapling.mp4) [**Video 2**](videos/stapling.mp4)
+
 **Date**: 09/2023-present
 
-**Role**: Project Co-Leader, MPhil student, HKUST
+**Role**: Project Co-Leader, MPhil Student, HKUST
 
 Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
+
+**Description**: 
+- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
+- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
+- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent (CN116616902A)</div><img src='images/electrosurgery.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Autonomous Electrosurgery Robot System
+
+[**EPO Link**](https://worldwide.espacenet.com/patent/search/family/087638024/publication/CN116616902A?q=CN116616902A)
+
+**Date**: 10/2022-08/2023
+
+**Role**: Project Leader, Undergraduate Student, BUPT
+
+**Jiale Wang**, Han Li, and Baiquan Su.
 
 **Description**: 
 - We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
