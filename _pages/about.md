@@ -25,16 +25,16 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 # 📝 Publications and Patents (as first/co-first author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L & ICRA2022 (published)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L, ICRA2022 (published)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
 
-[Video](videos/stapling.mp4)
+[**Video**](videos/stapling.mp4)
 
 **Date**: 03/2021-05/2022
 
-**Role**: Undergraduate student, BUPT
+**Role**: Project Leader, Undergraduate Student, BUPT
 
 **Jiale Wang<sup>*</sup>**, Chenhao Yue<sup>*</sup>, Baiquan Su, et al.
 
@@ -48,79 +48,45 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='videos/Ga2O3/structure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (under review)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
+A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training
 
-**Date**: 06/2022-07/2023
+**Date**: 10/2023-present
 
-**Role**: Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn/info/1016/1914.htm), WHU
+**Role**: Project Co-Leader, MPhil student, HKUST
 
-**Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang, Wei Shen.
+Chenhao Yue<sup>*</sup>, **Jiale Wang<sup>*</sup>**, Liu Yang, et al.
 
-**Description**
-- I investigated the effect of strain on the bandgap and effective mass tunability of β-Ga2O3 using the GGA+U method based on density functional theory.
-- The indirect-direct bandgap transition and electron mobility anisotropy in β-Ga2O3 under strain were discovered, suggesting potential applications of strain engineering in modulating its electronic properties.
+**Description**: 
+- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
+- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
+- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='videos/fish robot/Rendering.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L & ICRA2022 (published)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bionic Robot Fish](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
+[Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
 
-**Date**: 09/2021-06/2022
+[**Video**](videos/stapling.mp4)
 
-**Role**: Team Leader, supervised by Prof. Deng Li and Prof. Min Li, WHU
+**Date**: 03/2021-05/2022
 
-**Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
+**Role**: Undergraduate student, BUPT
 
-[**video**](https://youtu.be/oTg_eVXxm2c)
+**Jiale Wang<sup>*</sup>**, Chenhao Yue<sup>*</sup>, Baiquan Su, et al.
 
-**Description**
--  I designed a double-joint fish robot driven by a coupling propulsion mechanism, with functions including straightening, turning, sinking and floating, and autonomous underwater cruising.
--  Underwater experiments and CFD simulation were established to study the relationship between swimming speed and mechanism design/driving parameters.
+**Description**: 
+- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
+- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
+- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='videos/heat-powered vehicle/Car.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
-
-**Date**: 09/2020-09/2021
-
-**Role**: Team Leader, supervised by Prof. Xiaosun Wang and Prof. Min Li, WHU
-
-**Ruijia Zhang**, Wenke Zhou, Zibin Nian
-
-[**video**](https://youtu.be/gkrrsqVv6eA)
-
-**Description**
-- I designed and produced an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the trajectory accuracy is improved by 50%.
-- Our team shattered the university record by winning the National Gold Award (1.43%).
-- I served as a teaching assistant in a boot camp based on this project, training students in basic engineering skills.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
-
-[Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
-
-**Date**: 10/2021-11/2022
-
-**Role**: Team Leader, supervised by Prof. Min Li, WHU
-
-**Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
-
-[**video**](https://youtu.be/--K_LBozzOY)
-
-**Description**
-- I improved a two-way loop procedure of the smart wardrobe based on PLC program control.
-- I optimized the intermittent transmission mechanism based on Adams dynamical simulation and SolidWorks Topology to eliminate the flexible impact and achieve the lightweight design of the groove wheels.
 
 </div>
 </div>
