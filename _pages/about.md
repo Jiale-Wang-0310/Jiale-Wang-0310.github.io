@@ -48,7 +48,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (under review)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (under review)</div><img src='images/spirometer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training
