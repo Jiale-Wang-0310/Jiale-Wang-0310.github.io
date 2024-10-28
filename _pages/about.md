@@ -16,8 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👩‍🎓 About Me
-I am currently focusing on **Bio-inspired robot design, grasping, manipulation, and locomotion**, as I pursue my Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical Engineering, Wuhan University. Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
+
+Welcome to my page! I am Jiale Wang, with a strong passion for solving technically challenging problems in biomedical intelligent system. My research is focusing on **mechanical design and control of medical robots and bioelectronics**. I earned B.S. degree in Automation from Beijing University of Posts and Telecommunications in 2023, and I am pursuing MPhil degree in Electronic and Computer Engineering at Hong Kong University of Science and Technology.
+
+Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
 
 I've received the National Scholarship twice, in 2021 and 2022, and was recognized as one of the "Top 10 Students" in my school. 
 
