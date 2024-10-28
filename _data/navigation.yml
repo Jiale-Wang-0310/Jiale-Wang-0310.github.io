@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "Publications and Patents (as first/co-first author)"
-    url: "/#-Publications and Patents (as first/co-first author)"
+    url: "/#-Publications-and-Patents (as first/co-first author)"
     
   - title: "Publications and Patents (other)"
-    url: "/#Publications and Patents (other)"
+    url: "/#-Publications-and-Patents (other)"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
