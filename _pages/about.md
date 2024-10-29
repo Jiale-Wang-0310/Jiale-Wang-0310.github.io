@@ -42,10 +42,10 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 **Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, Baiquan Su, et al.
 
-**Description**: 
-- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
-- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
-- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
+**Highlight**: 
+- <p style="text-align: justify;">Proposed a surgical robot system that can both staple and remove staples from the incision.</p>
+- <p style="text-align: justify;">This is the first time to achieve robotic surgery in these tasks.</p>
+- <p style="text-align: justify;">Exceeded the performance of professional surgeons in these tasks.</p>
 
 
 </div>
