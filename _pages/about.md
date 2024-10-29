@@ -65,8 +65,8 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
 **Highlights**: 
 - <p style="text-align: justify;"> Developed a compact wireless spirometer which can achieve real-time data transmission to smartphones or laptops for continuous and long-term pulmonary function monitoring.</p>
-- <p style="text-align: justify;"> Designed a game-based interface to motivate users to perform regular expiratory exercises, enhancing user engagement and supporting respiratory rehabilitation, including for long COVID recovery.</p>
 - <p style="text-align: justify;"> Proposed a flexible bio-inspired sensor that directly measures expiratory airflow with high sensitivity, mimicking the deflection of animal whiskers or cilia under airflow.</p>
+- <p style="text-align: justify;"> Designed a game-based interface to motivate users to perform regular expiratory exercises, enhancing user engagement and supporting respiratory rehabilitation, including for long COVID recovery.</p>
 
 
 </div>
@@ -108,9 +108,10 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 **Jiale Wang<sup>†</sup>**, Hao Ren<sup>†</sup>, Liu Yang, et al.
 
 **Highlights**: 
-- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
-- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
-- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
+- <p style="text-align: justify;"> Proposed a gastric resident system can achieve controllable drug release based on a pre-set plan and adjust drug release plan on demand via Wi-Fi during treatment.</p>
+- <p style="text-align: justify;"> This is the first controllable and adjustable long-lasting drug delivery system which provides a groundbreaking approach for the treatment of chronic diseases.</p>
+- <p style="text-align: justify;"> Designed a power-efficient electronic system to enable the device to work well for 45 days, powered only by a 50mAh lithium battery.</p>
+- <p style="text-align: justify;"> Developed a user-friendly UI that allows users to control the system not only on mobile phones but on computers.</p>
 
 
 </div>
