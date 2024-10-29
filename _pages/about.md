@@ -45,7 +45,8 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 **Highlights**: 
 - <p style="text-align: justify;"> Proposed a surgical robot system that can both effectively staple and remove staples from the incision based on an innovative dual-module design.</p>
 - <p style="text-align: justify;"> This is the first time to achieve robotic surgery in these tasks.</p>
-- <p style="text-align: justify;"> Exceeded the performance of professional surgeons in these surgical tasks with remarkable accuracy and stability.</p>
+- <p style="text-align: justify;"> Proposed a novel framework using OpenCV and binocular vision-based methods to detect incisions or staples.</p>
+- <p style="text-align: justify;"> Exceeded the performance of professional surgeons in these surgical tasks, with a 76.40% improvement in accuracy and a 59.86% enhancement in stability compared to manual operations.</p>
 
 
 </div>
@@ -132,9 +133,9 @@ Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
 Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
 **Highlights**: 
-- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
-- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
-- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
+- <p style="text-align: justify;"> As a pioneering achievement, the integration of diagnostic function and targeted therapeutic capability into a capsule robot maximizes therapeutic efficacy and minimizes side effects.</p>
+- <p style="text-align: justify;"> Developed a vision algorithm based on U-Net for tumor detection, achieving a detection rate of 95% and a localization accuracy of 93%.</p>
+- <p style="text-align: justify;"> Used microneedles innovatively to deliver macromolecular drugs and designed a waterproof mechanism inspired by heart valves to protect microneedles before contacting tissues.</p>
 
 
 </div>
@@ -156,9 +157,10 @@ Autonomous Electrosurgery Robot System
 **Jiale Wang**, Han Li, and Baiquan Su.
 
 **Highlights**: 
-- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
-- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
-- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
+- <p style="text-align: justify;"> Proposed an electrosurgery robot system to enhance tumor cutting precision and reduce tissue damage.</p>
+- <p style="text-align: justify;">Designed a vision algorithm and path planning algorithm based on an RGBD camera to achieve accurate tumor cutting.</p>
+- <p style="text-align: justify;">Developed a power regulation algorithm for the knife electrode to prevent damage to adjacent organs by measuring tissue electrical impedance and using an infrared camera to monitor tissue temperature.</p>
+- <p style="text-align: justify;">The error of the robot proposed in this study was reduced by 67.50% compared to manual operations, and the burned tissue was decreased by 69.10%.</p>
 
 
 </div>
