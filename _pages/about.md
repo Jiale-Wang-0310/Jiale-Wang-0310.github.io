@@ -32,7 +32,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L (Published, Ranking: Q1, 6/130)</div><img src='images/stapling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)
+<p style="text-align: justify;">[Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal](https://ieeexplore.ieee.org/document/9676415)</p>
 
 [**[Video]**](videos/stapling.mp4)
 
@@ -45,7 +45,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 **Highlights**: 
 - <p style="text-align: justify;"> Proposed a surgical robot system that can both effectively staple and remove staples from the incision based on an innovative dual-module design.</p>
 - <p style="text-align: justify;"> This is the first time to achieve robotic surgery in these tasks.</p>
-- <p style="text-align: justify;"> Proposed a novel framework using OpenCV and binocular vision-based methods to detect incisions or staples.</p>
+- <p style="text-align: justify;"> Designed a novel framework using OpenCV and binocular vision-based methods to detect incisions or staples.</p>
 - <p style="text-align: justify;"> Exceeded the performance of professional surgeons in these surgical tasks, with a 76.40% improvement in accuracy and a 59.86% enhancement in stability compared to manual operations.</p>
 
 
@@ -77,7 +77,7 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024 (Accepted)</div><img src='images/stent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization of Colorectal Cancer
+<p style="text-align: justify;">Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization of Colorectal Cancer</p>
 
 **Date**: 08/2023-10/2024
 
@@ -98,7 +98,7 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Biomedical Engineering (Under preparation)</div><img src='images/balloon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery
+<p style="text-align: justify;">Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delivery</p>
 
 [**[Video 1]**](videos/balloon_I.mp4) [**[Video 2]**](videos/balloon_II.mp4)
 
@@ -122,7 +122,7 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top journal in Robotics (Under preparation)</div><img src='images/MNS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
+<p style="text-align: justify;">Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy</p>
 
 [**[Video 1]**](videos/MNS_move.mp4) [**[Video 2]**](videos/MNS_ex.mp4)
 
@@ -146,7 +146,7 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 <div class='paper-box-text' markdown="1">
 
 
-Autonomous Electrosurgery Robot System
+<p style="text-align: justify;">Autonomous Electrosurgery Robot System</p>
 
 [**[EPO Link]**](https://worldwide.espacenet.com/patent/search/family/087638024/publication/CN116616902A?q=CN116616902A)
 
