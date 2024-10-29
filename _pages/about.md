@@ -42,10 +42,10 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 **Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, Baiquan Su, et al.
 
-**Highlight**: 
-- <p style="text-align: justify;">Proposed a surgical robot system that can both staple and remove staples from the incision.</p>
-- <p style="text-align: justify;">This is the first time to achieve robotic surgery in these tasks.</p>
-- <p style="text-align: justify;">Exceeded the performance of professional surgeons in these tasks.</p>
+**Highlights**: 
+- <p style="text-align: justify;"> Proposed a surgical robot system that can both effectively staple and remove staples from the incision based on an innovative dual-module design.</p>
+- <p style="text-align: justify;"> This is the first time to achieve robotic surgery in these tasks.</p>
+- <p style="text-align: justify;"> Exceeded the performance of professional surgeons in these surgical tasks with remarkable accuracy and stability.</p>
 
 
 </div>
@@ -55,7 +55,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (Under review, Ranking: Q1, 3/152)</div><img src='images/spirometer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training
+<p style="text-align: justify;"> A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training </p>
 
 **Date**: 10/2023-present
 
@@ -63,10 +63,10 @@ A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring a
 
 Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
-**Description**: 
-- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
-- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
-- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
+**Highlights**: 
+- <p style="text-align: justify;"> Developed a compact wireless spirometer which can achieve real-time data transmission to smartphones or laptops for continuous and long-term pulmonary function monitoring.</p>
+- <p style="text-align: justify;"> Designed a game-based interface to motivate users to perform regular expiratory exercises, enhancing user engagement and supporting respiratory rehabilitation, including for long COVID recovery.</p>
+- <p style="text-align: justify;"> Proposed a flexible bio-inspired sensor that directly measures expiratory airflow with high sensitivity, mimicking the deflection of animal whiskers or cilia under airflow.</p>
 
 
 </div>
@@ -84,10 +84,10 @@ Robotic Anchoring System with Two Locomotion Modes for Preoperative Localization
 
 **Jiale Wang**, Hao Ren, Liu Yang, et al.
 
-**Description**: 
-- <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
-- <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
-- <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
+**Highlights**: 
+- <p style="text-align: justify;"> Designed a capsule robot system which can achieve two locomotion modes in the stomach and anchor in the intestine for preoperative localization.</p>
+- <p style="text-align: justify;"> Proposed a magnetic-driven method, enabling capsule robot to slip and flip to adapt to the unstructured and complex environment of the stomach.</p>
+- <p style="text-align: justify;"> Developed a compact and clever stent structure that can anchor in the intestine, triggered by changing the magnetic field gradient.</p>
 
 
 </div>
@@ -107,7 +107,7 @@ Long-lasting Gastric Resident System for Controllable and Adjustable Drug Delive
 
 **Jiale Wang<sup>†</sup>**, Hao Ren<sup>†</sup>, Liu Yang, et al.
 
-**Description**: 
+**Highlights**: 
 - <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
 - <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
 - <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
@@ -130,7 +130,7 @@ Next-generation Capsule Robot for Both Diagnosis and Targeted Therapy
 
 Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
-**Description**: 
+**Highlights**: 
 - <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
 - <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
 - <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
@@ -154,7 +154,7 @@ Autonomous Electrosurgery Robot System
 
 **Jiale Wang**, Han Li, and Baiquan Su.
 
-**Description**: 
+**Highlights**: 
 - <p style="text-align: justify;"> We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.</p>
 - <p style="text-align: justify;">The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.</p>
 - <p style="text-align: justify;">We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand.</p>
