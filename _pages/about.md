@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <p style="text-align: justify;">
-Welcome to my page! I am Jiale Wang, and I have a strong passion for tackling technically challenging problems in biomedical intelligent systems. My research focuses on the <u>mechanical design and control of medical robots and bioelectronics</u>. I earned my B.S. degree in Automation from Beijing University of Posts and Telecommunications (BUPT) in 2023, and I am currently pursuing an MPhil degree in Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).</p>
+Welcome to my page! I am Jiale Wang, and I have a strong passion for tackling technically challenging problems in biomedical intelligent systems. My research focuses on the <u>mechanical design and control of medical robots and bioelectronics</u>. I earned my B.S. degree in Automation from the Beijing University of Posts and Telecommunications (BUPT) in 2023, and I am currently pursuing an MPhil degree in Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).</p>
 
 <p style="text-align: justify;">
 At BUPT, I achieved a high GPA of <u>91.37/100</u> and ranked <u>1<sup>st</sup></u> in the comprehensive quality assessment for postgraduate recommendations. I received the <u>First-Class Scholarship</u> and the <u>Outstanding Student</u> award for two consecutive years. Furthermore, as a team leader, I guided my team in various engineering competitions related to robotics and mechanical design, resulting in <u>First Prize</u> and <u>Outstanding Winner</u> awards. Consequently, due to my excellent academic performance and extensive competition experience, I was honored as a <u>Beijing Outstanding Graduate</u>, the highest recognition for graduates, and received the <u>Outstanding Undergraduate Thesis Award (1/70 in department, top 1.4%)</u> for my undergraduate thesis. During my MPhil studies at HKUST, I maintained <u>straight A’s</u>, with a GPA of <u>4.0/4.3 (Excellent)</u>. Recently, I have been collaborating with the University of Hong Kong to conduct in vivo testing for a long-lasting gastric resident system.</p>
@@ -65,7 +65,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
 **Highlights**: 
-- <p style="text-align: justify;"> Developed a compact wireless spirometer which can achieve real-time data transmission to smartphones or laptops for continuous and long-term pulmonary function monitoring.</p>
+- <p style="text-align: justify;"> Developed a compact wireless spirometer that can achieve real-time data transmission to smartphones or laptops for continuous and long-term pulmonary function monitoring.</p>
 - <p style="text-align: justify;"> Proposed a flexible bio-inspired sensor that directly measures expiratory airflow with high sensitivity, mimicking the deflection of animal whiskers or cilia under airflow.</p>
 - <p style="text-align: justify;"> Designed a game-based interface to motivate users to perform regular expiratory exercises, enhancing user engagement and supporting respiratory rehabilitation, including for long COVID recovery.</p>
 
@@ -86,7 +86,7 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 **Jiale Wang**, Hao Ren, Liu Yang, et al.
 
 **Highlights**: 
-- <p style="text-align: justify;"> Designed a capsule robot system which can achieve two locomotion modes in the stomach and anchor in the intestine for preoperative localization.</p>
+- <p style="text-align: justify;"> Designed a capsule robot system that can achieve two locomotion modes in the stomach and anchor in the intestine for preoperative localization.</p>
 - <p style="text-align: justify;"> Proposed a magnetic-driven method, enabling capsule robot to slip and flip to adapt to the unstructured and complex environment of the stomach.</p>
 - <p style="text-align: justify;"> Developed a compact and clever stent structure that can anchor in the intestine, triggered by changing the magnetic field gradient.</p>
 
@@ -109,8 +109,8 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 **Jiale Wang<sup>†</sup>**, Hao Ren<sup>†</sup>, Liu Yang, et al.
 
 **Highlights**: 
-- <p style="text-align: justify;"> Proposed a gastric resident system can achieve controllable drug release based on a pre-set plan and adjust drug release plan on demand via Wi-Fi during treatment.</p>
-- <p style="text-align: justify;"> This is the first controllable and adjustable long-lasting drug delivery system which provides a groundbreaking approach for the treatment of chronic diseases.</p>
+- <p style="text-align: justify;"> Proposed a gastric resident system that can achieve controllable drug release based on a pre-set plan and adjust the drug release plan on demand via Wi-Fi during treatment.</p>
+- <p style="text-align: justify;"> This is the first controllable and adjustable long-lasting drug delivery system that provides a groundbreaking approach for the treatment of chronic diseases.</p>
 - <p style="text-align: justify;"> Designed a power-efficient electronic system to enable the device to work well for 45 days, powered only by a 50mAh lithium battery.</p>
 - <p style="text-align: justify;"> Developed a user-friendly UI that allows users to control the system not only on mobile phones but on computers.</p>
 
