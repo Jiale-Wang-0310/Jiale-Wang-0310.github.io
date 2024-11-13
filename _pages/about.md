@@ -40,7 +40,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 **Role**: Project Leader, Undergraduate Student, BUPT
 
-**Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, Baiquan Su, et al.
+**Jiale Wang**, Chenhao Yue, Baiquan Su, et al.
 
 **Highlights**: 
 - <p style="text-align: justify;"> Proposed a surgical robot system that can both effectively staple and remove staples from the incision based on an innovative dual-module design.</p>
@@ -53,7 +53,7 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (Under review, Ranking: Q1, 3/152)</div><img src='images/spirometer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (Accepted, Ranking: Q1, 3/152)</div><img src='images/spirometer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="text-align: justify;"> A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training </p>
@@ -168,7 +168,7 @@ Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al.
 
 
 # 📝 Publications and Patents (other)
-- **Jiale Wang<sup>†</sup>**, Chenhao Yue<sup>†</sup>, et al., ["Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal,"](https://events.infovaya.com/presentation?id=77596) in *2022 IEEE International Conference on Robotics and Automation (ICRA)*, published. **(Top conference)** 
+- **Jiale Wang**, Chenhao Yue, et al., ["Task Autonomous Medical Robot for Both Incision Stapling and Staples Removal,"](https://events.infovaya.com/presentation?id=77596) in *2022 IEEE International Conference on Robotics and Automation (ICRA)*, published. **(Top conference)** 
 - Hao Ren<sup>†</sup>, **Jiale Wang<sup>†</sup>**, Liu Yang, et al., "A Portable Wireless Spirometer Device for Long-term Pulmonary Function Monitoring and Training," in *2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, accepted.
 - Jiyan Zhang, Yue Xue, **Jiale Wang**, and Yuan Qi, ["A Parallelized Algorithm for Channel Estimation in mmWave Massive MIMO Communications,"](https://ieeexplore.ieee.org/document/10065999) in *2022 IEEE International Conference on Computer and Communications (ICCC)*, published. 
 - Tianyang Zhao, Rongrong Qian, Yaqi Wang, Songling Zhang, and **Jiale Wang**, ["Flying Like Birds: Hierarchical-Egalitarian Switching Based Control Law for Multi-UAV Systems,"](https://ieeexplore.ieee.org/document/10033711) in *2022 Chinese Control and Decision Conference (CCDC)*, published. 
