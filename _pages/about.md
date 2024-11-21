@@ -58,6 +58,8 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 
 [A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training](https://doi.org/10.1016/j.bios.2024.116937)
 
+[**[Video 1]**](videos/Spirometer_I.mp4) [**[Video 2]**](videos/Spirometer_II.mp4)
+
 **Date**: 10/2023-present
 
 **Role**: Project Co-Leader, MPhil Student, HKUST
