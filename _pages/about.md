@@ -53,10 +53,10 @@ You can find my CV here: [CV](CV_JialeWang.pdf).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (Accepted, Ranking: Q1, 3/152)</div><img src='images/spirometer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosensors and Bioelectronics (Published, Ranking: Q1, 3/152)</div><img src='images/spirometer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<p style="text-align: justify;"> A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training </p>
+<p style="text-align: justify;"> [A Bioelectronic Portable Wireless Spirometer for Pulmonary Function Monitoring and Training](https://doi.org/10.1016/j.bios.2024.116937) </p>
 
 **Date**: 10/2023-present
 
